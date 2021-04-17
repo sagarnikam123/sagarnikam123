@@ -1,6 +1,4 @@
 ### Hi there 👋, I am Sagar Nikam
-#### a Software Engineer
-B.Pharm, M.Sc (Bioinformatics)
 
 Skills: Data Science, Cloud, DevOps, Web, Mobile
 

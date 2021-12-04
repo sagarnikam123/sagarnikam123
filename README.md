@@ -1,12 +1,12 @@
 ### Hi there 👋, I am Sagar Nikam
 
-Skills: Data Science, Cloud, DevOps, Web, Mobile
+Skills: DevOps, Cloud and Data Science
 
-- 🔭 I’m currently working on Cloud, DevOps, Web, Mobile 
-- 🌱 I’m currently learning many technologies 
+- 🔭 I’m currently working on DevOps toolchain & Cloud platforms
+- 🌱 I’m currently learning many technologies (Web, Mobile)
 - 👯 I’m looking to collaborate on research projects 
 - 🤔 I’m looking for help with reducing my innovative work 
-- 💬 Ask me about life lessons, R&D 
+- 💬 Ask me about life lessons and R&D 
 - 📫 How to reach me: sagarnikam123@gmail.com 
 
 

@@ -3,7 +3,7 @@
 Skills: DevOps, Cloud and Data Science
 
 - 🔭 I’m currently working on DevOps toolchain & Cloud platforms
-- 🌱 I’m currently learning many technologies (Web, Mobile)
+- 🌱 I’m currently learning many technologies.
 - 👯 I’m looking to collaborate on research projects 
 - 🤔 I’m looking for help with reducing my innovative work 
 - 💬 Ask me about life lessons and R&D 

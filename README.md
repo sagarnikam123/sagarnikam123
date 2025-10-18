@@ -2,6 +2,12 @@
 
 ## 🚀 Senior DevOps Engineer | Cloud & Observability Specialist
 
+### 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagarnikam123)
+[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://sagarnikam123.github.io)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/sagarnikam123)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sagarnikam123@gmail.com)
+
 **Building scalable infrastructure and sharing knowledge through code**
 
 ### 🛠️ Tech Stack
@@ -24,12 +30,6 @@
 
 ### 📊 GitHub Stats
 ![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarnikam123&show_icons=true&theme=dark)
-
-### 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagarnikam123)
-[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://sagarnikam123.github.io)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/sagarnikam123)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sagarnikam123@gmail.com)
 
 ---
 *Always learning, always sharing. Let's build better systems together!* 🚀

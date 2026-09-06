@@ -28,9 +28,6 @@
 - **M.Sc (Bioinformatics), B.Pharm** - Unique blend of technical & scientific expertise
 - **Location**: Pune, India 🇮🇳
 
-### 📊 GitHub Stats
-![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarnikam123&show_icons=true&theme=dark)
-
 ---
 *Always learning, always sharing. Let's build better systems together!* 🚀
 
